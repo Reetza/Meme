@@ -1,0 +1,51 @@
+p {
+    Color: White;
+    font-size: 2vw;
+    font-family: 'Open Sans', sans-serif;
+
+}
+body{
+    background-color: black;
+    width:90%
+    color: rgb(235, 132, 163);
+    text-align:center;
+    margin:auto;
+
+}
+
+h1 {
+    color: White; 
+    font-size: 5vw;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+h3 {
+    Color: white;
+    font-size: 2vw;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
